@@ -1,6 +1,6 @@
 export default function BookList() {
-   let pageTitle = "shrug";
-   let book1 = "google.com";
+   let pageTitle = "Lovely Books";
+   let book1 = <a href="https://m.media-amazon.com/images/I/413EAYqKuSL._SX331_BO1,204,203,200_.jpg"/> ;
    let book2 = "";
    let book3 = "";
 
